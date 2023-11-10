@@ -1,0 +1,54 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.top-bar {
+    background-color: #f8f8f8;
+    color: black;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+}
+
+.contact-info i {
+    margin-right: 5px;
+}
+
+.contact-info p,
+.contact-info span {
+    margin: 0;
+    padding: 0;
+}
+
+.social-icons {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.social-icons li {
+    margin-right: 30px;
+    /* Adjust the margin as needed */
+}
+
+.social-icons a {
+    color: #000;
+    /* Change the color to match your design */
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.two {
+    border-bottom: solid 1px #eee;
+}
