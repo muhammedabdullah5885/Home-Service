@@ -3,6 +3,9 @@
 
 @section('content')
 <!-- covers -->
+<style>
+    
+</style>
   <section class="w3l-covers-9-main">
     <div style="background-color:whitesmoke;" class="covers-9">
       <div class="csslider infinity" id="slider1">
@@ -298,7 +301,6 @@
             </div>
         </div>
 </div>
-
 
 
 
