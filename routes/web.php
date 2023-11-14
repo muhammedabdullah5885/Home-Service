@@ -25,9 +25,32 @@ Route::get('/contact', function () {
 Route::get('/services', function () {
     return view('Pages/services');
 });
-Route::get('/request', function () {
-    return view('Pages/request');
+
+Route::get('/Officefitout-service', function () {
+    return view('Pages/Officefitout-service');
 });
+Route::get('/Renovation-service', function () {
+    return view('Pages/Renovation-service');
+});
+Route::get('/Electrical-service', function () {
+    return view('Pages/Electrical-service');
+});
+Route::get('/Plumbing-service', function () {
+    return view('Pages/Plumbing-service');
+});
+Route::get('/Painting-service', function () {
+    return view('Pages/Painting-service');
+});
+Route::get('/WaterTankCleaning-service', function () {
+    return view('Pages/WaterTankCleaning-service');
+});
+Route::get('/PoolMaintenance-service', function () {
+    return view('Pages/PoolMaintenance-service');
+});
+Route::get('/Carpentry-service', function () {
+    return view('Pages/Carpentry-service');
+});
+
 
 // auth
 Route::get('/login', function () {

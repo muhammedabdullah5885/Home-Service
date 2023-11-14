@@ -21,7 +21,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-plug" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Electrical work</a></h4>
+                        <h4><a href="Electrical-service" style="color:white;">Electrical</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.</p>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-paint-brush" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Painting work</a></h4>
+                        <h4><a href="Painting-service" style="color:white;">Painting</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.</p>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-bed" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Furniture shifting</a></h4>
+                        <h4><a href="Carpentry-service" style="color:white;">Carpentry</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -50,8 +50,9 @@
                 <div href="/" class="features-top-left_sur w3l-form-16 logo zoom-on-hover" style="background-image: url('assets/images/painter.jpg'); background-size: cover; background-position: center; padding: 20px; color: #fff;">
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
-                        <span class="fa fa-shield" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Washing machine</a></h4>
+                       
+                        <span class="fa fa-bitbucket" style="background-color: white;"></span>
+                        <h4><a href="WaterTankCleaning-service" style="color:white;">WaterTankCleaning</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -61,7 +62,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-paragraph" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Modular kitchen</a></h4>
+                        <h4><a href="Officefitout-service" style="color:white;">Office Fit Out</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -71,7 +72,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-unlink" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Carpet cleaning</a></h4>
+                        <h4><a href="PoolMaintenance-service" style="color:white;">Pool Maintenance</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -80,9 +81,8 @@
                 <div href="/" class="features-top-left_sur  w3l-form-16 logo zoom-on-hover" style="background-image: url('assets/images/electrician.jpg'); background-size: cover; background-position: center; padding: 20px; color: #fff;">
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
-
-                        <span class="fa fa-bitbucket" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Modular kitchen work</a></h4>
+                    <span class="fa fa-shield" style="background-color: white;"></span>
+                        <h4><a href="Renovation-service" style="color:white;">Renovation</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -93,7 +93,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-forumbee" style="background-color: white;"></span>
-                        <h4><a href="request" style="color:white;">Carpet cleaning</a></h4>
+                        <h4><a href="Plumbing-service" style="color:white;">Carpet cleaning</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>

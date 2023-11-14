@@ -8,7 +8,7 @@
     <title>@yield('title')</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{asset('assets/css/style-freedom.css')}}">
-   
+
     <link rel="stylesheet" href="{{asset('assets/css/topbar.css')}}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -21,7 +21,7 @@
         <div class="contact-info">
             <i class="fa fa-phone" style="color: rgb(34, 114, 189);"></i>
             <p style="margin-right: 40px;">+971-65-631-35834-344</p>
-          <i class="fa fa-envelope" style="color: rgb(34, 114, 189);"></i><span>Muhammedabdullah5885@gmail.com</span>
+            <i class="fa fa-envelope" style="color: rgb(34, 114, 189);"></i><span>Muhammedabdullah5885@gmail.com</span>
         </div>
         <ul class="social-icons">
             <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -43,7 +43,7 @@
                     <div>
                         <h1>
                             <a href="index.html" class="">
-                                <img src="assets/images/logo-logo.png" style="width: 128px; height:76px; margin-left:-115px" alt="Home Service Logo" >
+                                <img src="assets/images/logo-logo.png" style="width: 128px; height:76px; margin-left:-115px" alt="Home Service Logo">
                             </a>
                         </h1>
                     </div>
@@ -63,7 +63,21 @@
                                 <li><a style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/about') ? 'font-weight: bold;' : ''; ?>" href="about" class="link-nav logo zoom-on-hover <?php echo ($_SERVER['REQUEST_URI'] == '/about') ? 'active' : ''; ?>">About</a></li>
 
                                 <!-- Modify the Services link based on the current page -->
-                                <li><a style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/services') ? 'font-weight: bold;' : ''; ?>" href="services" class="link-nav logo zoom-on-hover <?php echo ($_SERVER['REQUEST_URI'] == '/services') ? 'active' : ''; ?>">Services</a></li>
+                                <li class="dropdown">
+                                    <label style="color: rgb(34, 114, 189);" for="drop-3" class="toggle logo zoom-on-hover toogle-2">Services</label>
+                                    <a href="services" style="color: rgb(34, 114, 189);" class="link-nav logo zoom-on-hover dropdown-toggle">Services <span class="fa fa-caret-down" aria-hidden="true"></span></a>
+                                    <input type="checkbox" id="drop-3" />
+                                    <ul class="dropdown-menu">
+                                        <li><a href="Electrical-service" style="color:black;">Electrical</a></li>
+                                        <li><a href="Painting-service" style="color:black;">Painting</a></li>
+                                        <li><a href="Carpentry-service" style="color:black;">Carpentry</a></li>
+                                        <li><a href="WaterTankCleaning-service" style="color:black;">WaterTankCleaning</a></li>
+                                        <li><a href="Officefitout-service" style="color:black;">Office Fit Out</a></li>
+                                        <li><a href="PoolMaintenance-service" style="color:black;">Pool Maintenance</a></li>
+                                        <li><a href="Renovation-service" style="color:black;">Renovation</a></li>
+                                        <li><a href="Plumbing-service" style="color:black;">Plumbing</a></li>
+                                    </ul>
+                                </li>
 
                                 <li>
                                     <label style="color: rgb(34, 114, 189);" for="drop-4" class="toggle logo zoom-on-hover toogle-2">Profile</label>
