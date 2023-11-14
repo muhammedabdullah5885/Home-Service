@@ -79,7 +79,7 @@
                                     </ul>
                                 </li>
 
-                                <li>
+                                <!-- <li>
                                     <label style="color: rgb(34, 114, 189);" for="drop-4" class="toggle logo zoom-on-hover toogle-2">Profile</label>
                                     <a href="#shop" style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/login' || $_SERVER['REQUEST_URI'] == '/signup') ? 'font-weight: bold;' : ''; ?>" class="link-nav logo zoom-on-hover dropdown-toggle <?php echo ($_SERVER['REQUEST_URI'] == '/login' || $_SERVER['REQUEST_URI'] == '/signup') ? 'active' : ''; ?>">Profile <span class="fa fa-caret-down" aria-hidden="true"></span></a>
                                     <input type="checkbox" id="drop-4" />
@@ -87,7 +87,7 @@
                                         <li><a style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/login') ? 'font-weight: bold;' : ''; ?>" href="login " class="logo zoom-on-hover">Login</a></li>
                                         <li><a style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/signup') ? 'font-weight: bold;' : ''; ?>" href="signup" class="logo zoom-on-hover">Signup</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
 
                                 <!-- Modify the Contact link based on the current page -->
                                 <li><a style="color: rgb(34, 114, 189); <?php echo ($_SERVER['REQUEST_URI'] == '/contact') ? 'font-weight: bold;' : ''; ?>" href="contact" class="link-nav logo zoom-on-hover <?php echo ($_SERVER['REQUEST_URI'] == '/contact') ? 'active' : ''; ?>">Contact</a></li>
