@@ -6,7 +6,7 @@
 <style>
     
 </style>
-  <section class="w3l-covers-9-main">
+  <section class="w3l-covers-9-main ">
     <div style="background-color:whitesmoke;" class="covers-9">
       <div class="csslider infinity" id="slider1">
         <input type="radio" name="slides" checked="checked" id="slides_1" />
@@ -17,8 +17,8 @@
           <li>
             <div class="wrapper">
               <div class="cover-top-center-9">
-                <div class="w3ls_cover_txt-9">
-                  <h6 class="tag-cover-9">We provide quality service</h6>
+                <div class="w3ls_cover_txt-9 logo">
+                  <h6 class="tag-cover-9 ">We provide quality service</h6>
                   <h3 class="title-cover-9">Home Maintenance and Services for you</h3>
                   <p class="para-cover-9">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia sed deserunt mollit anim id est laborum mollit anim id est nulla.</p>
                   <a href="about" class="actionbg button-cover-9">Read More</a>
@@ -37,25 +37,26 @@
     <div class="main-w3">
         <div class="wrapper">
             <div class="d-flex main-cont-wthree-fea">
-                <div class="grids-feature">
+
+                <div class="grids-feature logo">
                     <span class=" logo zoom-on-hover fa fa-bath"></span>
                     <h4><a href="#feature" class="title-head">Best Quality</a></h4>
                     <p class="logo zoom-on-hover">Fusce rutrum quam a ultrices rhoncus. Nulla eu ipsum tempus est suscipit et vitae nulla.
                     </p>
                 </div>
-                <div class="grids-feature">
+                <div class="grids-feature logo">
                     <span class="logo zoom-on-hover fa fa-cogs"></span>
                     <h4><a href="#feature" class="title-head">Expert Advice</a></h4>
                     <p class="logo zoom-on-hover">Fusce rutrum quam a ultrices rhoncus. Nulla eu ipsum tempus est suscipit et vitae nulla.
                     </p>
                 </div>
-                <div class="grids-feature">
+                <div class="grids-feature logo">
                     <span class="logo zoom-on-hover fa fa-users"></span>
                     <h4><a href="#feature" class="title-head">Labour Expertise</a></h4>
                     <p class="logo zoom-on-hover">Fusce rutrum quam a ultrices rhoncus. Nulla eu ipsum tempus est suscipit et vitae nulla.
                     </p>
                 </div>
-                <div class="grids-feature">
+                <div class="grids-feature logo">
                     <span class=" logo zoom-on-hover fa fa-clock-o"></span>
                     <h4><a href="#feature" class="title-head">On Time Service</a></h4>
                     <p class="logo zoom-on-hover">Fusce rutrum quam a ultrices rhoncus. Nulla eu ipsum tempus est suscipit et vitae nulla.
@@ -68,7 +69,7 @@
 
 
 
-<section class="w3l-features-7">
+<section class="w3l-features-7" >
     <div class="features_sur">
         <div class="wrapper">
             <!-- <h5 class="heading">What we serve</h5> -->
@@ -81,7 +82,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-plug" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Electrical work</a></h4>
+                        <h4><a href="Electrical-service" style="color:white;">Electrical work</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.</p>
                     </div>
                 </div>
@@ -90,7 +91,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-paint-brush" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Painting work</a></h4>
+                        <h4><a href="Painting-service" style="color:white;">Painting work</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.</p>
                     </div>
                 </div>
@@ -101,7 +102,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-bed" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Furniture shifting</a></h4>
+                        <h4><a href="Plumbing-service" style="color:white;">Plumbing</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -111,7 +112,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-shield" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Washing machine</a></h4>
+                        <h4><a href="OfficeFitOut-service" style="color:white;">OfficeFitOut</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -121,7 +122,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-paragraph" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Modular kitchen</a></h4>
+                        <h4><a href="Renovation-service" style="color:white;">Renovation</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -131,7 +132,7 @@
                     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
                     <div style="position: relative; z-index: 1;">
                         <span class="fa fa-unlink" style="background-color: white;"></span>
-                        <h4><a href="services-single.html" style="color:white;">Carpet cleaning</a></h4>
+                        <h4><a href="Carpentry-service" style="color:white;">Carpentry</a></h4>
                         <p style="color:white;">Eutr ipsum tempus est suscipit et vitae nulla sed. Once aute irure dolor init et repreh.
                         </p>
                     </div>
@@ -301,6 +302,8 @@
             </div>
         </div>
 </div>
+
+
 
 
 

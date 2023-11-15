@@ -50,6 +50,10 @@ Route::get('/PoolMaintenance-service', function () {
 Route::get('/Carpentry-service', function () {
     return view('Pages/Carpentry-service');
 });
+Route::get('/BookNow', function () {
+    return view('Pages/BookNow');
+});
+
 
 
 // auth

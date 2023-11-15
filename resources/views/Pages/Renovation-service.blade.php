@@ -25,7 +25,7 @@
                 </div>
 
                 <div class="form-right-inf logo">
-                    <div class="form-inner-cont" style="position: relative; background-image: url('assets/images/electrician.jpg'); background-size: cover; background-position: center;">
+                    <div class="form-inner-cont" style="position: relative; background-image: url('assets/images/housekeeping.jpg'); background-size: cover; background-position: center;">
                         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7);"></div>
                         <div style="position: relative; z-index: 1;">
                         <h6>Book Service<span class="line"></span></h6>
