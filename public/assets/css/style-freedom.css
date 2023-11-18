@@ -4106,6 +4106,7 @@ h3.heading {
 .w3l-covers-9-main .cover-top-center-9 {
   min-height: 45em;
   display: grid;
+  justify-content: center;
   align-items: center;
   position: relative;
   z-index: 99;
@@ -32508,6 +32509,7 @@ Side note: I know that this style of nesting in SASS doesn't result in the most 
   padding: 3rem;
   width: 30%;
 }
+
 
 .w3l-contacts-4 .cont-details h5 {
   font-size: 35px;

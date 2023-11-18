@@ -3,34 +3,34 @@
 
 @section('content')
 <!-- covers -->
-<style>
-    
-</style>
-  <section class="w3l-covers-9-main ">
-    <div style="background-color:whitesmoke;" class="covers-9">
-      <div class="csslider infinity" id="slider1">
-        <input type="radio" name="slides" checked="checked" id="slides_1" />
-        <input type="radio" name="slides" id="slides_2" />
-        <input type="radio" name="slides" id="slides_3" />
-        <input type="radio" name="slides" id="slides_4" />
+
+<section class="w3l-covers-9-main ">
+    <div class="csslider infinity" id="slider1">
         <ul class="banner_slide_bg">
-          <li>
-            <div class="wrapper">
-              <div class="cover-top-center-9">
-                <div class="w3ls_cover_txt-9 logo">
-                  <h6 class="tag-cover-9 ">We provide quality service</h6>
-                  <h3 class="title-cover-9">Home Maintenance and Services for you</h3>
-                  <p class="para-cover-9">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia sed deserunt mollit anim id est laborum mollit anim id est nulla.</p>
-                  <a href="about" class="actionbg button-cover-9">Read More</a>
-                  <a href="contact" class="actionbg-border button-cover-9">Get in touch</a>
+            <li>
+                <div class="wrapper">
+                    <div class="cover-top-center-9">
+                        <div class="w3ls_cover_txt-9 logo">
+                            <h6 class="tag-cover-9 ">We provide quality service</h6>
+                            <h3 class="title-cover-9">Home Maintenance and Services for you</h3>
+                            <p class="para-cover-9">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia sed deserunt mollit anim id est laborum mollit anim id est nulla.</p>
+                            <a href="about" class="actionbg button-cover-9">Read More</a>
+                            <a href="contact" class="actionbg-border button-cover-9">Get in touch</a>
+
+                    
+                        </div>
+
+
+
+                    </div>
                 </div>
-              </div>
-            </div>
-          </li>
+            </li>
+
         </ul>
-      </div>
+
     </div>
-  </section>
+
+</section>
 
 
 <section class="w3l-feature-9">
@@ -69,7 +69,7 @@
 
 
 
-<section class="w3l-features-7" >
+<section class="w3l-features-7">
     <div class="features_sur">
         <div class="wrapper">
             <!-- <h5 class="heading">What we serve</h5> -->
