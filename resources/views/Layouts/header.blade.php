@@ -17,22 +17,7 @@
 <body>
 
 
-    <div class="top-bar two">
-        <div class="contact-info">
-            <i class="fa fa-phone" style="color: rgb(34, 114, 189);"></i>
-            <p style="margin-right: 40px;">+971-65-631-35834-344</p>
-            <i class="fa fa-envelope" style="color: rgb(34, 114, 189);"></i><span>Muhammedabdullah5885@gmail.com</span>
-        </div>
-        <ul class="social-icons">
-            <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-youtube"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa fa-vk"></i></a></li>
-            <!-- Add more social icons as needed -->
-        </ul>
-    </div>
+    
 
     <!-- header -->
     <div class="w3l-headers-9">
